@@ -1,0 +1,95 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+}
+
+.menu-item {
+    margin-right: 15px;
+}
+
+.menu-item:hover {
+    border-bottom: 3px solid #ff3f6c;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+    background: #f5f5f6;
+    padding: 8px 12px;
+    border-radius: 4px;
+}
+
+.search-container input {
+    width: 100%;
+    border: none;
+    background: transparent;
+    outline: none;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.icon-item {
+    text-align: center;
+    font-size: 12px;
+    /* cursor: pointer; */
+}
+
+.icon-item svg {
+    display: block;
+    margin: auto;
+}
+
+.icon-item p {
+    margin: 0;
+    font-size: 12px;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.slider-img {
+    width: 15em;
+}
+
+.myntra-footer {
+    background: #f5f5f6;
+    padding: 40px 60px;
+    font-size: 14px;
+    color: #696b79;
+}
+
+.myntra-footer h6 {
+    font-size: 12px;
+    margin-bottom: 10px;
+    color: #282c3f;
+}
+
+.myntra-footer p {
+    margin: 3px 0;
+    cursor: pointer;
+}
+
+.store-btn {
+    width: 140px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.social-icons img {
+    width: 22px;
+    margin-right: 12px;
+    cursor: pointer;
+}
+
+.footer-icon {
+    width: 40px;
+    margin-right: 10px;
+}
+
+.footer-guarantee p {
+    font-size: 13px;
+    margin: 0;
+}
