@@ -1,1 +1,1 @@
-This File was made by Aradhay Mohan Shrangi , For First year Second Semester Design Thinking Assingment.
+This File was made by Aradhay Mohan Shrangi.
